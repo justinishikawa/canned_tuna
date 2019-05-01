@@ -1,7 +1,5 @@
 ---
-title: "Assignment_5"
 author: "Justin Ishikawa"
-date: "12/8/2018"
 output: html_document
 ---
 
